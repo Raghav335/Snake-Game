@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #111;
+  color: #fff;
+  margin: 0;
+  padding: 20px;
+}
+canvas {
+  background: #222;
+  display: block;
+  margin: 0 auto;
+  border: 3px solid limegreen;
+}
+h1 {
+  color: limegreen;
+}
